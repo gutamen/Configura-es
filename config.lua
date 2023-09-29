@@ -9,6 +9,6 @@ vim.opt.shiftwidth = 4                          -- Número de espaços inseridos
 vim.opt.tabstop = 4                             -- Insere 2 espaços para cada TAB
 vim.opt.relativenumber = false                  -- Número relativo de linhas
 vim.opt.wrap = true                             -- Quebra de linha, quando não tem espaço o suficiente na tela
-lvim.colorscheme = "minimalist"                       -- Tema selecionado
+lvim.colorscheme = "industry"                   -- Tema selecionado
 lvim.builtin.lualine.style = "default"          -- Configuração da barra de status do editor de texto
 
